@@ -1,4 +1,5 @@
 # hello-world
-just another repository
+
+hi bobo!
 
 public class void main 
